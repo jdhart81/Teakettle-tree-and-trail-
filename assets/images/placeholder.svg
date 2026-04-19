@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#d8d0c4"/>
+  <pattern id="hatch" patternUnits="userSpaceOnUse" width="20" height="20" patternTransform="rotate(45)">
+    <line x1="0" y1="0" x2="0" y2="20" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+  </pattern>
+  <rect width="800" height="500" fill="url(#hatch)"/>
+  <line x1="0" y1="0" x2="800" y2="500" stroke="#b0a898" stroke-width="1.5" opacity="0.4"/>
+  <line x1="800" y1="0" x2="0" y2="500" stroke="#b0a898" stroke-width="1.5" opacity="0.4"/>
+  <text x="400" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#7a7060" letter-spacing="2">📷  PHOTO PLACEHOLDER</text>
+  <text x="400" y="265" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa">Replace with actual photo</text>
+</svg>
